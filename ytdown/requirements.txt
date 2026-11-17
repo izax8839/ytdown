@@ -1,0 +1,6 @@
+yt-dlp>=2026.10.26
+PyQt6>=6.12.1
+customtkinter>=6.0.0
+mutagen>=1.48.1
+requests>=2.34.2
+pillow>=13.0.0
